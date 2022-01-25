@@ -1,2 +1,2 @@
 # PlanetPeace
-This is fully Bootstrap based blog website
+This is a fully Bootstrap based blog website
